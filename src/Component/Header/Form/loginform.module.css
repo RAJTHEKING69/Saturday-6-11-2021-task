@@ -1,0 +1,14 @@
+.LoginForm_head{
+    height: 30rem;
+}
+
+.form{
+    width : 30%;
+    background-color: cadetblue;
+    line-height: 59px;
+    border-radius: 5px;
+}
+
+.btn{
+    margin-left: 10rem;
+}

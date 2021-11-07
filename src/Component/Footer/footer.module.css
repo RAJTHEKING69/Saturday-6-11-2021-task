@@ -1,0 +1,14 @@
+.Imagelogo__content{
+    display: flex;
+    background-color: black;
+    padding: 30px;
+    
+}
+
+.Imagelogo__content div{
+    flex: 25%;
+}
+
+.Imagelogo__content div:nth-child(2){
+    padding-left: 65px;
+}

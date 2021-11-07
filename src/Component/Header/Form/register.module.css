@@ -1,0 +1,51 @@
+
+
+.form_heading{
+    width: 50vw;
+    font-size: 2em;
+    background-color: #afdaee;
+    text-align: center;
+    padding: 41px 0px 8px;
+    border-width: 7px 0px;
+    border-style: solid;
+    border-color: #fff;
+    margin-left: 11em;
+    box-shadow: -14px 14px 16px rgb(0 0 0 / 30%);
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    font-size: 1.8em;
+    background-color: azure;
+    margin-left: 12.2em;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20201026/pngtree-scene-with-geometrical-forms-the-poster-model-minimal-background-render-image_437743.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: -14px 14px 16px rgb(0 0 0 / 30%);
+    opacity: 83%;
+    
+}
+
+input,button{
+    padding: 0.7em;
+    margin: 0.3em 0.5em 0em;
+    font-size: 0.7em;
+}
+
+label{
+    margin: 0.7em 0em 0em 0.5em;
+}
+.btn{
+    font-size: 0.7em;
+    padding: 12px;
+    width: 10vw;
+    margin-left: 12em;
+    background-color: #ff5722;
+    margin-top: 1.5em;
+    border-color: #fff;
+    margin-bottom: 1.5em;
+    cursor: pointer;
+    opacity: 141%;
+}
+
